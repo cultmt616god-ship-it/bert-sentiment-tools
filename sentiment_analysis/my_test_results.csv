@@ -1,0 +1,9 @@
+line_number,sentiment,confidence,text
+1,POSITIVE,0.9994875192642212,Apple announces breakthrough in quantum computing
+2,NEGATIVE,0.999664306640625,Stock market crashes due to economic uncertainty
+3,POSITIVE,0.999683141708374,New restaurant opens with rave reviews
+4,NEGATIVE,0.9909143447875977,Company lays off 10% of workforce amid budget cuts
+5,POSITIVE,0.9972469806671143,Scientific discovery could revolutionize medicine
+6,POSITIVE,0.9997451901435852,Local community center wins national award
+7,NEGATIVE,0.9966511130332947,Tech giant faces lawsuit over privacy violations
+8,POSITIVE,0.9995879530906677,Renewable energy project brings jobs to rural area
