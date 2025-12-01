@@ -1,0 +1,6 @@
+url,title,category,confidence
+https://www.bbc.com/news,"BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",news,0.6538800597190857
+https://www.amazon.com,Amazon.com. Spend less. Smile more.,shopping,0.3347199261188507
+https://www.github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,technology,0.559228241443634
+https://www.reddit.com,Reddit - The heart of the internet,social_media,0.4009576439857483
+https://www.coursera.org,"Coursera | Degrees, Certificates, & Free Online Courses",educational,0.716413140296936
